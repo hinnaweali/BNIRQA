@@ -1,4 +1,4 @@
-# BNIRQA
+# BNIRQA Model
 The BNIRQA model : A Bayesian Network based Information Retrieval Model for Question Answering.
 
 This project suggests an effective method to deal with open-domain question answering mainly by
