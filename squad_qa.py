@@ -1,5 +1,4 @@
 """
-    Text Processing Nodes for
      Stanford Question Answering Dataset
       (SQuAD)
 """
