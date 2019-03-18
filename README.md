@@ -8,3 +8,6 @@ dataset (SQuAD) [1], based on a preliminary search on a predefined dataset (Wiki
 and then dynamically create a probabilistic information retrieval model (BNIRM) in order to find
 the most relevant documents to the query, based on the words dependency in a predefined dataset
 (Wikipedia articles) using Bayesian networks (BNs).
+
+There is no Configuration.
+Please run the main function by clicking Run or a specific run command from the drop-down list.
